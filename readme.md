@@ -1,6 +1,7 @@
+extensions:
 
-extensions: 
-
-* vetur
-* eslint
-* prettier
+- vetur
+- eslint
+- prettier
+- copy relative path
+- vue vscode snippets
